@@ -10,9 +10,3 @@ This Rust program simulates a chain of three processes, each handling messages i
 - Forwards unhandled messages through the chain
 - Logs errors and unhandled messages at each process
 
-## Running the Program:
-
-1. Clone this repository or download the `chain_servers.rs` file.
-2. Compile the program:
-   ```bash
-   rustc chain_servers.rs
